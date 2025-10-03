@@ -1,0 +1,467 @@
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avsos Wiki Chat</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            width: 100%;
+            max-width: 1000px;
+            padding: 40px;
+            animation: slideUp 0.5s ease;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+            text-align: center;
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            resize: vertical;
+            transition: all 0.3s ease;
+            font-family: inherit;
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 18px;
+            font-weight: 600;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        button.loading {
+            pointer-events: none;
+            opacity: 0.7;
+        }
+
+        button.loading::after {
+            content: '';
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            margin: auto;
+            border: 3px solid transparent;
+            border-radius: 50%;
+            border-top: 3px solid white;
+            animation: spin 1s linear infinite;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .response-container {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            min-height: 200px;
+            max-height: 500px;
+            overflow-y: auto;
+            margin-top: 20px;
+            border: 2px solid #e0e0e0;
+            position: relative;
+        }
+
+        .response-container::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .response-container::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+
+        .response-container::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 10px;
+        }
+
+        .response-container::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+
+        .answer-section {
+            margin-bottom: 20px;
+        }
+
+        .answer-section h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .answer-text {
+            color: #333;
+            line-height: 1.6;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .chunks-section {
+            margin-top: 20px;
+        }
+
+        .chunks-section h3 {
+            color: #764ba2;
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .chunk-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .chunk-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transform: translateY(-2px);
+        }
+
+        .chunk-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .chunk-source {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 0.9rem;
+        }
+
+        .chunk-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .chunk-meta span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .chunk-preview {
+            color: #555;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            margin-top: 8px;
+            font-family: 'Courier New', monospace;
+        }
+
+        .empty-state {
+            color: #999;
+            text-align: center;
+            padding: 40px;
+            font-style: italic;
+        }
+
+        .typing-indicator {
+            display: none;
+            align-items: center;
+            padding: 10px;
+        }
+
+        .typing-indicator.active {
+            display: flex;
+        }
+
+        .typing-indicator span {
+            height: 10px;
+            width: 10px;
+            background: #667eea;
+            border-radius: 50%;
+            display: inline-block;
+            margin: 0 2px;
+            animation: bounce 1.4s infinite ease-in-out both;
+        }
+
+        .typing-indicator span:nth-child(1) {
+            animation-delay: -0.32s;
+        }
+
+        .typing-indicator span:nth-child(2) {
+            animation-delay: -0.16s;
+        }
+
+        @keyframes bounce {
+            0%, 80%, 100% {
+                transform: scale(0);
+            }
+            40% {
+                transform: scale(1);
+            }
+        }
+
+        .badge {
+            background: #f0f0f0;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: #666;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .chunk-meta {
+                flex-direction: column;
+                gap: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🤖 Avsos Wiki Chat</h1>
+
+    <div class="input-group">
+            <textarea
+                    id="q"
+                    rows="4"
+                    placeholder="Sorunuzu buraya yazın..."
+                    autofocus
+            ></textarea>
+    </div>
+
+    <button id="ask">
+        <span id="btnText">Sor</span>
+    </button>
+
+    <div class="response-container">
+        <div class="typing-indicator" id="typing">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div id="output">
+            <div class="empty-state">
+                Henüz bir soru sormadınız. Yukarıdaki alana sorunuzu yazıp "Sor" butonuna tıklayın.
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const button = document.getElementById('ask');
+    const textarea = document.getElementById('q');
+    const output = document.getElementById('output');
+    const typing = document.getElementById('typing');
+    const btnText = document.getElementById('btnText');
+
+    // Enter tuşu ile gönderme
+    textarea.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+
+    button.onclick = sendMessage;
+
+    async function sendMessage() {
+        const message = textarea.value.trim();
+
+        if (!message) {
+            alert('Lütfen bir soru yazın!');
+            return;
+        }
+
+        // UI durumunu güncelle
+        button.classList.add('loading');
+        btnText.textContent = 'Düşünüyorum...';
+        typing.classList.add('active');
+        output.innerHTML = '';
+
+        try {
+            const res = await fetch('/api/chat', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({message})
+            });
+
+            if (!res.ok) {
+                throw new Error('Sunucu hatası');
+            }
+
+            const data = await res.json();
+
+            // Cevap bölümü
+            let html = `
+                    <div class="answer-section">
+                        <h3>💬 Cevap</h3>
+                        <div class="answer-text">${escapeHtml(data.answer || 'Üzgünüm, bir cevap üretemiyorum.')}</div>
+                    </div>
+                `;
+
+            // Chunk'ları göster
+            if (data.usedChunks && data.usedChunks.length > 0) {
+                html += `
+                        <div class="chunks-section">
+                            <h3>📚 Kullanılan Kaynaklar (${data.usedChunks.length} chunk)</h3>
+                    `;
+
+                data.usedChunks.forEach((chunk, index) => {
+                    html += `
+                            <div class="chunk-card">
+                                <div class="chunk-header">
+                                    <div class="chunk-source">
+                                        📄 ${escapeHtml(chunk.source || 'Bilinmeyen')}
+                                    </div>
+                                    <div class="chunk-meta">
+                                        <span class="badge">Chunk #${chunk.chunk || '?'}</span>
+                                        ${chunk.page ? `<span class="badge">Sayfa: ${chunk.page}</span>` : ''}
+                                        ${chunk.offset ? `<span class="badge">Offset: ${chunk.offset}</span>` : ''}
+                                        ${chunk.length ? `<span class="badge">Uzunluk: ${chunk.length}</span>` : ''}
+                                    </div>
+                                </div>
+                                ${chunk.preview ? `
+                                    <div class="chunk-preview">
+                                        ${escapeHtml(chunk.preview)}...
+                                    </div>
+                                ` : ''}
+                            </div>
+                        `;
+                });
+
+                html += '</div>';
+            }
+
+            output.innerHTML = html;
+
+            // Başarılı olduğunda textarea'yı temizle
+            textarea.value = '';
+
+        } catch (error) {
+            output.innerHTML = `
+                    <div class="answer-section">
+                        <h3>❌ Hata</h3>
+                        <div class="answer-text">${escapeHtml(error.message)}</div>
+                    </div>
+                `;
+        } finally {
+            // UI'yi eski haline getir
+            button.classList.remove('loading');
+            btnText.textContent = 'Sor';
+            typing.classList.remove('active');
+        }
+    }
+
+    // HTML escape fonksiyonu
+    function escapeHtml(text) {
+        const map = {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#039;'
+        };
+        return text.replace(/[&<>"']/g, m => map[m]);
+    }
+
+    // Sayfa yüklendiğinde textarea'ya odaklan
+    window.onload = () => textarea.focus();
+</script>
+</body>
+</html>

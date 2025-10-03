@@ -1,0 +1,1692 @@
+{
+  "chunks" : [ {
+    "chunk_id" : 0,
+    "file" : "chunks/chunk_000000.jsonl",
+    "section" : null,
+    "size" : "1496",
+    "source_file" : "river-x.md"
+  }, {
+    "chunk_id" : 1,
+    "file" : "chunks/chunk_000001.jsonl",
+    "section" : null,
+    "size" : "1468",
+    "source_file" : "river-x/data-models.md"
+  }, {
+    "chunk_id" : 2,
+    "file" : "chunks/chunk_000002.jsonl",
+    "section" : null,
+    "size" : "1299",
+    "source_file" : "river-x/data-models/air-traffic-data-model.md"
+  }, {
+    "chunk_id" : 3,
+    "file" : "chunks/chunk_000003.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 4,
+    "file" : "chunks/chunk_000004.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 5,
+    "file" : "chunks/chunk_000005.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 6,
+    "file" : "chunks/chunk_000006.jsonl",
+    "section" : null,
+    "size" : "514",
+    "source_file" : "river-x/data-models/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 7,
+    "file" : "chunks/chunk_000007.jsonl",
+    "section" : null,
+    "size" : "1868",
+    "source_file" : "river-x/data-models/baggage-data-models.md"
+  }, {
+    "chunk_id" : 8,
+    "file" : "chunks/chunk_000008.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 9,
+    "file" : "chunks/chunk_000009.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 10,
+    "file" : "chunks/chunk_000010.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 11,
+    "file" : "chunks/chunk_000011.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 12,
+    "file" : "chunks/chunk_000012.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 13,
+    "file" : "chunks/chunk_000013.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 14,
+    "file" : "chunks/chunk_000014.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 15,
+    "file" : "chunks/chunk_000015.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 16,
+    "file" : "chunks/chunk_000016.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 17,
+    "file" : "chunks/chunk_000017.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 18,
+    "file" : "chunks/chunk_000018.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 19,
+    "file" : "chunks/chunk_000019.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 20,
+    "file" : "chunks/chunk_000020.jsonl",
+    "section" : null,
+    "size" : "1560",
+    "source_file" : "river-x/data-models/crew-data-models.md"
+  }, {
+    "chunk_id" : 21,
+    "file" : "chunks/chunk_000021.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/electronic-flight-bag-data-models.md"
+  }, {
+    "chunk_id" : 22,
+    "file" : "chunks/chunk_000022.jsonl",
+    "section" : null,
+    "size" : "300",
+    "source_file" : "river-x/data-models/electronic-flight-bag-data-models.md"
+  }, {
+    "chunk_id" : 23,
+    "file" : "chunks/chunk_000023.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-data-models.md"
+  }, {
+    "chunk_id" : 24,
+    "file" : "chunks/chunk_000024.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-data-models.md"
+  }, {
+    "chunk_id" : 25,
+    "file" : "chunks/chunk_000025.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-data-models.md"
+  }, {
+    "chunk_id" : 26,
+    "file" : "chunks/chunk_000026.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-data-models.md"
+  }, {
+    "chunk_id" : 27,
+    "file" : "chunks/chunk_000027.jsonl",
+    "section" : null,
+    "size" : "1084",
+    "source_file" : "river-x/data-models/flight-data-models.md"
+  }, {
+    "chunk_id" : 28,
+    "file" : "chunks/chunk_000028.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 29,
+    "file" : "chunks/chunk_000029.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 30,
+    "file" : "chunks/chunk_000030.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 31,
+    "file" : "chunks/chunk_000031.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 32,
+    "file" : "chunks/chunk_000032.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 33,
+    "file" : "chunks/chunk_000033.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 34,
+    "file" : "chunks/chunk_000034.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 35,
+    "file" : "chunks/chunk_000035.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 36,
+    "file" : "chunks/chunk_000036.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 37,
+    "file" : "chunks/chunk_000037.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 38,
+    "file" : "chunks/chunk_000038.jsonl",
+    "section" : null,
+    "size" : "566",
+    "source_file" : "river-x/data-models/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 39,
+    "file" : "chunks/chunk_000039.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 40,
+    "file" : "chunks/chunk_000040.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 41,
+    "file" : "chunks/chunk_000041.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 42,
+    "file" : "chunks/chunk_000042.jsonl",
+    "section" : null,
+    "size" : "1154",
+    "source_file" : "river-x/data-models/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 43,
+    "file" : "chunks/chunk_000043.jsonl",
+    "section" : null,
+    "size" : "776",
+    "source_file" : "river-x/data-models/ground-traffic-data-model.md"
+  }, {
+    "chunk_id" : 44,
+    "file" : "chunks/chunk_000044.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/passenger-data-models.md"
+  }, {
+    "chunk_id" : 45,
+    "file" : "chunks/chunk_000045.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/passenger-data-models.md"
+  }, {
+    "chunk_id" : 46,
+    "file" : "chunks/chunk_000046.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/data-models/passenger-data-models.md"
+  }, {
+    "chunk_id" : 47,
+    "file" : "chunks/chunk_000047.jsonl",
+    "section" : "Flight PAX Info Data Model (NEW Release) | Attribute | Type | Description | | :--------------------- | :----------: | :-----------------------------------------------------------------| | pnr | `'string'` | PNR | | pnrCreationDate | `'datetime'` | Date and time of the pnr created in UTC | | pnrStatus | `'string'` | Status of the PNR. ACTIVE or CANCELLED | | flightPaxInfoOrderId | `'string'` | Unique identifier for the NDC order | | orderStatus | `'string'` | Status of the order. ACTIVE or CANCELLED | | tourOperatorCode | `'string'` | Code of the tour operator | | tourOperatorReferenceCode| `'string'` | Reference code of the tour operator | | paxReferenceId | `'string'` | Unique reference identifier for the passenger under the PNR according to the NDC standard.| | forenames | `'string'` | All given names | | surname | `'string'` | Surname | | title | `'string'` | Title of passenger | | gender | `'string'` | Gender of passenger. Female or Male | | birthDate | `'date'` | Passenger's date of birth. | | citizenship | `'string'` | Citizenship country code of passenger | | identityDocumentNumber | `'string'` | National identity number of passenger | | passportNumber | `'string'` | Passport number of passenger | | paxType | `'string'` | Type of passenger. ADULT, CHILD, INFANT, etc. | | segmentReferenceId | `'string'` | Unique reference identifier for the flight under the PNR according to the NDC standard.| | segmentStatus | `'string'` | Status of the segment. OK: ACTIVE, WK: WK CONFIRMED, SB: STANDBY, ATK: AKTP CONFIRMED, SC: SCHEDULE CHANGE, TC: TIME CHANGE, X: CANCELLED, else OTHER| | flightId | `'string'` | Flight identifier. A flight may include multiple flight leg due to operational reasons.| | pnrFlightId | `'string'` | Unique identifier for distinguishing the flight under the PNR. | | udorLocal | `'date'` | Date of origination in local timezone | | carrier | `'string'` | Carrier code, TK, XQ etc. | | flightNumber | `'string'` | Flight number | | departureAirport |",
+    "size" : "2000",
+    "source_file" : "river-x/data-models/passenger-data-models.md"
+  }, {
+    "chunk_id" : 48,
+    "file" : "chunks/chunk_000048.jsonl",
+    "section" : "Flight PAX Info Data Model (NEW Release) | Attribute | Type | Description | | :--------------------- | :----------: | :-----------------------------------------------------------------| | pnr | `'string'` | PNR | | pnrCreationDate | `'datetime'` | Date and time of the pnr created in UTC | | pnrStatus | `'string'` | Status of the PNR. ACTIVE or CANCELLED | | flightPaxInfoOrderId | `'string'` | Unique identifier for the NDC order | | orderStatus | `'string'` | Status of the order. ACTIVE or CANCELLED | | tourOperatorCode | `'string'` | Code of the tour operator | | tourOperatorReferenceCode| `'string'` | Reference code of the tour operator | | paxReferenceId | `'string'` | Unique reference identifier for the passenger under the PNR according to the NDC standard.| | forenames | `'string'` | All given names | | surname | `'string'` | Surname | | title | `'string'` | Title of passenger | | gender | `'string'` | Gender of passenger. Female or Male | | birthDate | `'date'` | Passenger's date of birth. | | citizenship | `'string'` | Citizenship country code of passenger | | identityDocumentNumber | `'string'` | National identity number of passenger | | passportNumber | `'string'` | Passport number of passenger | | paxType | `'string'` | Type of passenger. ADULT, CHILD, INFANT, etc. | | segmentReferenceId | `'string'` | Unique reference identifier for the flight under the PNR according to the NDC standard.| | segmentStatus | `'string'` | Status of the segment. OK: ACTIVE, WK: WK CONFIRMED, SB: STANDBY, ATK: AKTP CONFIRMED, SC: SCHEDULE CHANGE, TC: TIME CHANGE, X: CANCELLED, else OTHER| | flightId | `'string'` | Flight identifier. A flight may include multiple flight leg due to operational reasons.| | pnrFlightId | `'string'` | Unique identifier for distinguishing the flight under the PNR. | | udorLocal | `'date'` | Date of origination in local timezone | | carrier | `'string'` | Carrier code, TK, XQ etc. | | flightNumber | `'string'` | Flight number | | departureAirport |",
+    "size" : "2000",
+    "source_file" : "river-x/data-models/passenger-data-models.md"
+  }, {
+    "chunk_id" : 49,
+    "file" : "chunks/chunk_000049.jsonl",
+    "section" : "Flight PAX Info Data Model (NEW Release) | Attribute | Type | Description | | :--------------------- | :----------: | :-----------------------------------------------------------------| | pnr | `'string'` | PNR | | pnrCreationDate | `'datetime'` | Date and time of the pnr created in UTC | | pnrStatus | `'string'` | Status of the PNR. ACTIVE or CANCELLED | | flightPaxInfoOrderId | `'string'` | Unique identifier for the NDC order | | orderStatus | `'string'` | Status of the order. ACTIVE or CANCELLED | | tourOperatorCode | `'string'` | Code of the tour operator | | tourOperatorReferenceCode| `'string'` | Reference code of the tour operator | | paxReferenceId | `'string'` | Unique reference identifier for the passenger under the PNR according to the NDC standard.| | forenames | `'string'` | All given names | | surname | `'string'` | Surname | | title | `'string'` | Title of passenger | | gender | `'string'` | Gender of passenger. Female or Male | | birthDate | `'date'` | Passenger's date of birth. | | citizenship | `'string'` | Citizenship country code of passenger | | identityDocumentNumber | `'string'` | National identity number of passenger | | passportNumber | `'string'` | Passport number of passenger | | paxType | `'string'` | Type of passenger. ADULT, CHILD, INFANT, etc. | | segmentReferenceId | `'string'` | Unique reference identifier for the flight under the PNR according to the NDC standard.| | segmentStatus | `'string'` | Status of the segment. OK: ACTIVE, WK: WK CONFIRMED, SB: STANDBY, ATK: AKTP CONFIRMED, SC: SCHEDULE CHANGE, TC: TIME CHANGE, X: CANCELLED, else OTHER| | flightId | `'string'` | Flight identifier. A flight may include multiple flight leg due to operational reasons.| | pnrFlightId | `'string'` | Unique identifier for distinguishing the flight under the PNR. | | udorLocal | `'date'` | Date of origination in local timezone | | carrier | `'string'` | Carrier code, TK, XQ etc. | | flightNumber | `'string'` | Flight number | | departureAirport |",
+    "size" : "1878",
+    "source_file" : "river-x/data-models/passenger-data-models.md"
+  }, {
+    "chunk_id" : 50,
+    "file" : "chunks/chunk_000050.jsonl",
+    "section" : null,
+    "size" : "1706",
+    "source_file" : "river-x/data-models/reference-data-models.md"
+  }, {
+    "chunk_id" : 51,
+    "file" : "chunks/chunk_000051.jsonl",
+    "section" : null,
+    "size" : "1223",
+    "source_file" : "river-x/data-models/stations-data-model.md"
+  }, {
+    "chunk_id" : 52,
+    "file" : "chunks/chunk_000052.jsonl",
+    "section" : null,
+    "size" : "979",
+    "source_file" : "river-x/data-models/tows-data-model.md"
+  }, {
+    "chunk_id" : 53,
+    "file" : "chunks/chunk_000053.jsonl",
+    "section" : null,
+    "size" : "922",
+    "source_file" : "river-x/data-models/weather-data-model.md"
+  }, {
+    "chunk_id" : 54,
+    "file" : "chunks/chunk_000054.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events.md"
+  }, {
+    "chunk_id" : 55,
+    "file" : "chunks/chunk_000055.jsonl",
+    "section" : null,
+    "size" : "1694",
+    "source_file" : "river-x/events.md"
+  }, {
+    "chunk_id" : 56,
+    "file" : "chunks/chunk_000056.jsonl",
+    "section" : null,
+    "size" : "273",
+    "source_file" : "river-x/events/air-traffic-event.md"
+  }, {
+    "chunk_id" : 57,
+    "file" : "chunks/chunk_000057.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/aircraft-events.md"
+  }, {
+    "chunk_id" : 58,
+    "file" : "chunks/chunk_000058.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/aircraft-events.md"
+  }, {
+    "chunk_id" : 59,
+    "file" : "chunks/chunk_000059.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/aircraft-events.md"
+  }, {
+    "chunk_id" : 60,
+    "file" : "chunks/chunk_000060.jsonl",
+    "section" : null,
+    "size" : "1013",
+    "source_file" : "river-x/events/aircraft-events.md"
+  }, {
+    "chunk_id" : 61,
+    "file" : "chunks/chunk_000061.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/baggage-events.md"
+  }, {
+    "chunk_id" : 62,
+    "file" : "chunks/chunk_000062.jsonl",
+    "section" : null,
+    "size" : "700",
+    "source_file" : "river-x/events/baggage-events.md"
+  }, {
+    "chunk_id" : 63,
+    "file" : "chunks/chunk_000063.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 64,
+    "file" : "chunks/chunk_000064.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 65,
+    "file" : "chunks/chunk_000065.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 66,
+    "file" : "chunks/chunk_000066.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 67,
+    "file" : "chunks/chunk_000067.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 68,
+    "file" : "chunks/chunk_000068.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 69,
+    "file" : "chunks/chunk_000069.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 70,
+    "file" : "chunks/chunk_000070.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 71,
+    "file" : "chunks/chunk_000071.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 72,
+    "file" : "chunks/chunk_000072.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 73,
+    "file" : "chunks/chunk_000073.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 74,
+    "file" : "chunks/chunk_000074.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 75,
+    "file" : "chunks/chunk_000075.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 76,
+    "file" : "chunks/chunk_000076.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 77,
+    "file" : "chunks/chunk_000077.jsonl",
+    "section" : null,
+    "size" : "818",
+    "source_file" : "river-x/events/crew-events.md"
+  }, {
+    "chunk_id" : 78,
+    "file" : "chunks/chunk_000078.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/electronic-flight-bag-events.md"
+  }, {
+    "chunk_id" : 79,
+    "file" : "chunks/chunk_000079.jsonl",
+    "section" : null,
+    "size" : "653",
+    "source_file" : "river-x/events/electronic-flight-bag-events.md"
+  }, {
+    "chunk_id" : 80,
+    "file" : "chunks/chunk_000080.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-events.md"
+  }, {
+    "chunk_id" : 81,
+    "file" : "chunks/chunk_000081.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-events.md"
+  }, {
+    "chunk_id" : 82,
+    "file" : "chunks/chunk_000082.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-events.md"
+  }, {
+    "chunk_id" : 83,
+    "file" : "chunks/chunk_000083.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-events.md"
+  }, {
+    "chunk_id" : 84,
+    "file" : "chunks/chunk_000084.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-events.md"
+  }, {
+    "chunk_id" : 85,
+    "file" : "chunks/chunk_000085.jsonl",
+    "section" : null,
+    "size" : "205",
+    "source_file" : "river-x/events/flight-events.md"
+  }, {
+    "chunk_id" : 86,
+    "file" : "chunks/chunk_000086.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 87,
+    "file" : "chunks/chunk_000087.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 88,
+    "file" : "chunks/chunk_000088.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 89,
+    "file" : "chunks/chunk_000089.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 90,
+    "file" : "chunks/chunk_000090.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 91,
+    "file" : "chunks/chunk_000091.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 92,
+    "file" : "chunks/chunk_000092.jsonl",
+    "section" : null,
+    "size" : "318",
+    "source_file" : "river-x/events/flight-plan-events.md"
+  }, {
+    "chunk_id" : 93,
+    "file" : "chunks/chunk_000093.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/ground-handling-events.md"
+  }, {
+    "chunk_id" : 94,
+    "file" : "chunks/chunk_000094.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/ground-handling-events.md"
+  }, {
+    "chunk_id" : 95,
+    "file" : "chunks/chunk_000095.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/ground-handling-events.md"
+  }, {
+    "chunk_id" : 96,
+    "file" : "chunks/chunk_000096.jsonl",
+    "section" : null,
+    "size" : "393",
+    "source_file" : "river-x/events/ground-handling-events.md"
+  }, {
+    "chunk_id" : 97,
+    "file" : "chunks/chunk_000097.jsonl",
+    "section" : null,
+    "size" : "279",
+    "source_file" : "river-x/events/ground-traffic-event.md"
+  }, {
+    "chunk_id" : 98,
+    "file" : "chunks/chunk_000098.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/passenger-events.md"
+  }, {
+    "chunk_id" : 99,
+    "file" : "chunks/chunk_000099.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/passenger-events.md"
+  }, {
+    "chunk_id" : 100,
+    "file" : "chunks/chunk_000100.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/passenger-events.md"
+  }, {
+    "chunk_id" : 101,
+    "file" : "chunks/chunk_000101.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/passenger-events.md"
+  }, {
+    "chunk_id" : 102,
+    "file" : "chunks/chunk_000102.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/events/passenger-events.md"
+  }, {
+    "chunk_id" : 103,
+    "file" : "chunks/chunk_000103.jsonl",
+    "section" : null,
+    "size" : "548",
+    "source_file" : "river-x/events/passenger-events.md"
+  }, {
+    "chunk_id" : 104,
+    "file" : "chunks/chunk_000104.jsonl",
+    "section" : null,
+    "size" : "1381",
+    "source_file" : "river-x/events/reference-data-events.md"
+  }, {
+    "chunk_id" : 105,
+    "file" : "chunks/chunk_000105.jsonl",
+    "section" : null,
+    "size" : "1406",
+    "source_file" : "river-x/events/stations-event.md"
+  }, {
+    "chunk_id" : 106,
+    "file" : "chunks/chunk_000106.jsonl",
+    "section" : null,
+    "size" : "264",
+    "source_file" : "river-x/events/tows-event.md"
+  }, {
+    "chunk_id" : 107,
+    "file" : "chunks/chunk_000107.jsonl",
+    "section" : null,
+    "size" : "270",
+    "source_file" : "river-x/events/weather-event.md"
+  }, {
+    "chunk_id" : 108,
+    "file" : "chunks/chunk_000108.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/faq.md"
+  }, {
+    "chunk_id" : 109,
+    "file" : "chunks/chunk_000109.jsonl",
+    "section" : null,
+    "size" : "1327",
+    "source_file" : "river-x/faq.md"
+  }, {
+    "chunk_id" : 110,
+    "file" : "chunks/chunk_000110.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/howto.md"
+  }, {
+    "chunk_id" : 111,
+    "file" : "chunks/chunk_000111.jsonl",
+    "section" : null,
+    "size" : "343",
+    "source_file" : "river-x/howto.md"
+  }, {
+    "chunk_id" : 112,
+    "file" : "chunks/chunk_000112.jsonl",
+    "section" : null,
+    "size" : "558",
+    "source_file" : "river-x/release_notes.html"
+  }, {
+    "chunk_id" : 113,
+    "file" : "chunks/chunk_000113.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/release_notes/SXS_2025_07_17.html"
+  }, {
+    "chunk_id" : 114,
+    "file" : "chunks/chunk_000114.jsonl",
+    "section" : null,
+    "size" : "223",
+    "source_file" : "river-x/release_notes/SXS_2025_07_17.html"
+  }, {
+    "chunk_id" : 115,
+    "file" : "chunks/chunk_000115.jsonl",
+    "section" : null,
+    "size" : "676",
+    "source_file" : "river-x/release_notes/SXS_2025_08_11.html"
+  }, {
+    "chunk_id" : 116,
+    "file" : "chunks/chunk_000116.jsonl",
+    "section" : null,
+    "size" : "214",
+    "source_file" : "river-x/release_notes/SXS_2025_08_21.html"
+  }, {
+    "chunk_id" : 117,
+    "file" : "chunks/chunk_000117.jsonl",
+    "section" : null,
+    "size" : "1117",
+    "source_file" : "river-x/release_notes/SXS_2025_09_15.html"
+  }, {
+    "chunk_id" : 118,
+    "file" : "chunks/chunk_000118.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services.md"
+  }, {
+    "chunk_id" : 119,
+    "file" : "chunks/chunk_000119.jsonl",
+    "section" : null,
+    "size" : "622",
+    "source_file" : "river-x/services.md"
+  }, {
+    "chunk_id" : 120,
+    "file" : "chunks/chunk_000120.jsonl",
+    "section" : null,
+    "size" : "330",
+    "source_file" : "river-x/services/air-traffic-service.md"
+  }, {
+    "chunk_id" : 121,
+    "file" : "chunks/chunk_000121.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/aircraft-services.md"
+  }, {
+    "chunk_id" : 122,
+    "file" : "chunks/chunk_000122.jsonl",
+    "section" : null,
+    "size" : "1830",
+    "source_file" : "river-x/services/aircraft-services.md"
+  }, {
+    "chunk_id" : 123,
+    "file" : "chunks/chunk_000123.jsonl",
+    "section" : null,
+    "size" : "1261",
+    "source_file" : "river-x/services/baggage-services.md"
+  }, {
+    "chunk_id" : 124,
+    "file" : "chunks/chunk_000124.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 125,
+    "file" : "chunks/chunk_000125.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 126,
+    "file" : "chunks/chunk_000126.jsonl",
+    "section" : "Request ``` https://riverxtest.sunexpress.com/v1/crew/flight/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlights\": [ { \"extraInfo\": \"Flight Info\", \"legId\": \"3545844\", \"flightId\": \"20221101-XQ-185\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"1177974\", \"dutyId\": \"1177974\", \"position\": \"Senior\", \"cumulativeSectors\": \"8\", \"sectorsInPhase\": \"8\", \"requiredSectorsInPhase\": \"8\", \"trainingPosition\": \"Trainer\", \"trainingCode\": \"LCCOCKPIT\", \"status\": \"ARR\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewFlights ``` # Crew Ground Activity Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/groundActivities/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewGroundActivities\": [ { \"extraInfo\": \"Ground Activity Info\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"startDate\": \"2022-12-16T06:00:00Z\", \"endDate\": \"2022-12-16T15:00:00Z\", \"code\": \"OF-O\", \"codeDescription\": \"SECURITY TRAINING\", \"station\": \"AYT\", \"position\": \"Purser\", \"trainingCrewAssignmentId\": \"159073\", \"trainingId\": \"159070\", \"trainingCode\": \"CRMCOCKPIT\", \"instructorName\": \"JOHN PAUL\", \"trainingRole\": \"Trainee\", \"trainingVenue\": \"IFS-C202\", \"status\": \"SCHEDULED\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewGroundActivities ``` # Crew Flight Transport Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/flightTransport/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlightTransports\": [ { \"extraInfo\": \"Flight Transport Info\", \"rosterId\": \"0ac17c32-f52f-456d-a55d-52ebc25ccf01\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"legId\": \"3539840\", \"flightId\": \"20221101-XQ-185\", \"udor\": \"2024-01-18\", \"carrier\": \"TK\", \"flightNumber\": \"7026\", \"suffix\": \"A\", \"departureAirport\": \"ESB\", \"arrivalAirport\": \"AYT\", \"departure",
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 127,
+    "file" : "chunks/chunk_000127.jsonl",
+    "section" : "Request ``` https://riverxtest.sunexpress.com/v1/crew/flight/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlights\": [ { \"extraInfo\": \"Flight Info\", \"legId\": \"3545844\", \"flightId\": \"20221101-XQ-185\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"1177974\", \"dutyId\": \"1177974\", \"position\": \"Senior\", \"cumulativeSectors\": \"8\", \"sectorsInPhase\": \"8\", \"requiredSectorsInPhase\": \"8\", \"trainingPosition\": \"Trainer\", \"trainingCode\": \"LCCOCKPIT\", \"status\": \"ARR\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewFlights ``` # Crew Ground Activity Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/groundActivities/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewGroundActivities\": [ { \"extraInfo\": \"Ground Activity Info\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"startDate\": \"2022-12-16T06:00:00Z\", \"endDate\": \"2022-12-16T15:00:00Z\", \"code\": \"OF-O\", \"codeDescription\": \"SECURITY TRAINING\", \"station\": \"AYT\", \"position\": \"Purser\", \"trainingCrewAssignmentId\": \"159073\", \"trainingId\": \"159070\", \"trainingCode\": \"CRMCOCKPIT\", \"instructorName\": \"JOHN PAUL\", \"trainingRole\": \"Trainee\", \"trainingVenue\": \"IFS-C202\", \"status\": \"SCHEDULED\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewGroundActivities ``` # Crew Flight Transport Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/flightTransport/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlightTransports\": [ { \"extraInfo\": \"Flight Transport Info\", \"rosterId\": \"0ac17c32-f52f-456d-a55d-52ebc25ccf01\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"legId\": \"3539840\", \"flightId\": \"20221101-XQ-185\", \"udor\": \"2024-01-18\", \"carrier\": \"TK\", \"flightNumber\": \"7026\", \"suffix\": \"A\", \"departureAirport\": \"ESB\", \"arrivalAirport\": \"AYT\", \"departure",
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 128,
+    "file" : "chunks/chunk_000128.jsonl",
+    "section" : "Request ``` https://riverxtest.sunexpress.com/v1/crew/flight/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlights\": [ { \"extraInfo\": \"Flight Info\", \"legId\": \"3545844\", \"flightId\": \"20221101-XQ-185\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"1177974\", \"dutyId\": \"1177974\", \"position\": \"Senior\", \"cumulativeSectors\": \"8\", \"sectorsInPhase\": \"8\", \"requiredSectorsInPhase\": \"8\", \"trainingPosition\": \"Trainer\", \"trainingCode\": \"LCCOCKPIT\", \"status\": \"ARR\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewFlights ``` # Crew Ground Activity Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/groundActivities/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewGroundActivities\": [ { \"extraInfo\": \"Ground Activity Info\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"startDate\": \"2022-12-16T06:00:00Z\", \"endDate\": \"2022-12-16T15:00:00Z\", \"code\": \"OF-O\", \"codeDescription\": \"SECURITY TRAINING\", \"station\": \"AYT\", \"position\": \"Purser\", \"trainingCrewAssignmentId\": \"159073\", \"trainingId\": \"159070\", \"trainingCode\": \"CRMCOCKPIT\", \"instructorName\": \"JOHN PAUL\", \"trainingRole\": \"Trainee\", \"trainingVenue\": \"IFS-C202\", \"status\": \"SCHEDULED\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewGroundActivities ``` # Crew Flight Transport Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/flightTransport/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlightTransports\": [ { \"extraInfo\": \"Flight Transport Info\", \"rosterId\": \"0ac17c32-f52f-456d-a55d-52ebc25ccf01\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"legId\": \"3539840\", \"flightId\": \"20221101-XQ-185\", \"udor\": \"2024-01-18\", \"carrier\": \"TK\", \"flightNumber\": \"7026\", \"suffix\": \"A\", \"departureAirport\": \"ESB\", \"arrivalAirport\": \"AYT\", \"departure",
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 129,
+    "file" : "chunks/chunk_000129.jsonl",
+    "section" : "Request ``` https://riverxtest.sunexpress.com/v1/crew/flight/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlights\": [ { \"extraInfo\": \"Flight Info\", \"legId\": \"3545844\", \"flightId\": \"20221101-XQ-185\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"1177974\", \"dutyId\": \"1177974\", \"position\": \"Senior\", \"cumulativeSectors\": \"8\", \"sectorsInPhase\": \"8\", \"requiredSectorsInPhase\": \"8\", \"trainingPosition\": \"Trainer\", \"trainingCode\": \"LCCOCKPIT\", \"status\": \"ARR\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewFlights ``` # Crew Ground Activity Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/groundActivities/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewGroundActivities\": [ { \"extraInfo\": \"Ground Activity Info\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"startDate\": \"2022-12-16T06:00:00Z\", \"endDate\": \"2022-12-16T15:00:00Z\", \"code\": \"OF-O\", \"codeDescription\": \"SECURITY TRAINING\", \"station\": \"AYT\", \"position\": \"Purser\", \"trainingCrewAssignmentId\": \"159073\", \"trainingId\": \"159070\", \"trainingCode\": \"CRMCOCKPIT\", \"instructorName\": \"JOHN PAUL\", \"trainingRole\": \"Trainee\", \"trainingVenue\": \"IFS-C202\", \"status\": \"SCHEDULED\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewGroundActivities ``` # Crew Flight Transport Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/flightTransport/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlightTransports\": [ { \"extraInfo\": \"Flight Transport Info\", \"rosterId\": \"0ac17c32-f52f-456d-a55d-52ebc25ccf01\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"legId\": \"3539840\", \"flightId\": \"20221101-XQ-185\", \"udor\": \"2024-01-18\", \"carrier\": \"TK\", \"flightNumber\": \"7026\", \"suffix\": \"A\", \"departureAirport\": \"ESB\", \"arrivalAirport\": \"AYT\", \"departure",
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 130,
+    "file" : "chunks/chunk_000130.jsonl",
+    "section" : "Request ``` https://riverxtest.sunexpress.com/v1/crew/flight/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlights\": [ { \"extraInfo\": \"Flight Info\", \"legId\": \"3545844\", \"flightId\": \"20221101-XQ-185\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"1177974\", \"dutyId\": \"1177974\", \"position\": \"Senior\", \"cumulativeSectors\": \"8\", \"sectorsInPhase\": \"8\", \"requiredSectorsInPhase\": \"8\", \"trainingPosition\": \"Trainer\", \"trainingCode\": \"LCCOCKPIT\", \"status\": \"ARR\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewFlights ``` # Crew Ground Activity Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/groundActivities/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewGroundActivities\": [ { \"extraInfo\": \"Ground Activity Info\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"startDate\": \"2022-12-16T06:00:00Z\", \"endDate\": \"2022-12-16T15:00:00Z\", \"code\": \"OF-O\", \"codeDescription\": \"SECURITY TRAINING\", \"station\": \"AYT\", \"position\": \"Purser\", \"trainingCrewAssignmentId\": \"159073\", \"trainingId\": \"159070\", \"trainingCode\": \"CRMCOCKPIT\", \"instructorName\": \"JOHN PAUL\", \"trainingRole\": \"Trainee\", \"trainingVenue\": \"IFS-C202\", \"status\": \"SCHEDULED\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewGroundActivities ``` # Crew Flight Transport Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/flightTransport/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlightTransports\": [ { \"extraInfo\": \"Flight Transport Info\", \"rosterId\": \"0ac17c32-f52f-456d-a55d-52ebc25ccf01\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"legId\": \"3539840\", \"flightId\": \"20221101-XQ-185\", \"udor\": \"2024-01-18\", \"carrier\": \"TK\", \"flightNumber\": \"7026\", \"suffix\": \"A\", \"departureAirport\": \"ESB\", \"arrivalAirport\": \"AYT\", \"departure",
+    "size" : "2000",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 131,
+    "file" : "chunks/chunk_000131.jsonl",
+    "section" : "Request ``` https://riverxtest.sunexpress.com/v1/crew/flight/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlights\": [ { \"extraInfo\": \"Flight Info\", \"legId\": \"3545844\", \"flightId\": \"20221101-XQ-185\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"1177974\", \"dutyId\": \"1177974\", \"position\": \"Senior\", \"cumulativeSectors\": \"8\", \"sectorsInPhase\": \"8\", \"requiredSectorsInPhase\": \"8\", \"trainingPosition\": \"Trainer\", \"trainingCode\": \"LCCOCKPIT\", \"status\": \"ARR\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewFlights ``` # Crew Ground Activity Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/groundActivities/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewGroundActivities\": [ { \"extraInfo\": \"Ground Activity Info\", \"rosterId\": \"2d192f39-e680-4d76-a369-d53e56eba520\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"startDate\": \"2022-12-16T06:00:00Z\", \"endDate\": \"2022-12-16T15:00:00Z\", \"code\": \"OF-O\", \"codeDescription\": \"SECURITY TRAINING\", \"station\": \"AYT\", \"position\": \"Purser\", \"trainingCrewAssignmentId\": \"159073\", \"trainingId\": \"159070\", \"trainingCode\": \"CRMCOCKPIT\", \"instructorName\": \"JOHN PAUL\", \"trainingRole\": \"Trainee\", \"trainingVenue\": \"IFS-C202\", \"status\": \"SCHEDULED\" } ] } ], \"totalPage\": 1, \"totalItem\": 1 } ``` ### GraphQL Query Root ``` getCrewGroundActivities ``` # Crew Flight Transport Service ### Request ``` https://riverxtest.sunexpress.com/v1/crew/flightTransport/{crewId}?page={page}&size={size} ``` ### Response ```json { \"result\": [ { \"crewId\": \"80765\", \"crewFlightTransports\": [ { \"extraInfo\": \"Flight Transport Info\", \"rosterId\": \"0ac17c32-f52f-456d-a55d-52ebc25ccf01\", \"tripId\": \"11923474\", \"dutyId\": \"11923474\", \"legId\": \"3539840\", \"flightId\": \"20221101-XQ-185\", \"udor\": \"2024-01-18\", \"carrier\": \"TK\", \"flightNumber\": \"7026\", \"suffix\": \"A\", \"departureAirport\": \"ESB\", \"arrivalAirport\": \"AYT\", \"departure",
+    "size" : "1129",
+    "source_file" : "river-x/services/crew-services.md"
+  }, {
+    "chunk_id" : 132,
+    "file" : "chunks/chunk_000132.jsonl",
+    "section" : null,
+    "size" : "1424",
+    "source_file" : "river-x/services/electronic-flight-bag-services.md"
+  }, {
+    "chunk_id" : 133,
+    "file" : "chunks/chunk_000133.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/flight-plan-services.md"
+  }, {
+    "chunk_id" : 134,
+    "file" : "chunks/chunk_000134.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/flight-plan-services.md"
+  }, {
+    "chunk_id" : 135,
+    "file" : "chunks/chunk_000135.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/flight-plan-services.md"
+  }, {
+    "chunk_id" : 136,
+    "file" : "chunks/chunk_000136.jsonl",
+    "section" : null,
+    "size" : "1703",
+    "source_file" : "river-x/services/flight-plan-services.md"
+  }, {
+    "chunk_id" : 137,
+    "file" : "chunks/chunk_000137.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/flight-services.md"
+  }, {
+    "chunk_id" : 138,
+    "file" : "chunks/chunk_000138.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/flight-services.md"
+  }, {
+    "chunk_id" : 139,
+    "file" : "chunks/chunk_000139.jsonl",
+    "section" : null,
+    "size" : "1643",
+    "source_file" : "river-x/services/flight-services.md"
+  }, {
+    "chunk_id" : 140,
+    "file" : "chunks/chunk_000140.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/ground-handling-services.md"
+  }, {
+    "chunk_id" : 141,
+    "file" : "chunks/chunk_000141.jsonl",
+    "section" : null,
+    "size" : "1650",
+    "source_file" : "river-x/services/ground-handling-services.md"
+  }, {
+    "chunk_id" : 142,
+    "file" : "chunks/chunk_000142.jsonl",
+    "section" : null,
+    "size" : "336",
+    "source_file" : "river-x/services/ground-traffic-services.md"
+  }, {
+    "chunk_id" : 143,
+    "file" : "chunks/chunk_000143.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/passenger-services.md"
+  }, {
+    "chunk_id" : 144,
+    "file" : "chunks/chunk_000144.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/passenger-services.md"
+  }, {
+    "chunk_id" : 145,
+    "file" : "chunks/chunk_000145.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/services/passenger-services.md"
+  }, {
+    "chunk_id" : 146,
+    "file" : "chunks/chunk_000146.jsonl",
+    "section" : null,
+    "size" : "619",
+    "source_file" : "river-x/services/passenger-services.md"
+  }, {
+    "chunk_id" : 147,
+    "file" : "chunks/chunk_000147.jsonl",
+    "section" : null,
+    "size" : "848",
+    "source_file" : "river-x/services/reference-services.md"
+  }, {
+    "chunk_id" : 148,
+    "file" : "chunks/chunk_000148.jsonl",
+    "section" : null,
+    "size" : "781",
+    "source_file" : "river-x/services/stations-service.md"
+  }, {
+    "chunk_id" : 149,
+    "file" : "chunks/chunk_000149.jsonl",
+    "section" : null,
+    "size" : "316",
+    "source_file" : "river-x/services/tows-service.md"
+  }, {
+    "chunk_id" : 150,
+    "file" : "chunks/chunk_000150.jsonl",
+    "section" : null,
+    "size" : "322",
+    "source_file" : "river-x/services/weather-service.md"
+  }, {
+    "chunk_id" : 151,
+    "file" : "chunks/chunk_000151.jsonl",
+    "section" : null,
+    "size" : "1553",
+    "source_file" : "river-x/source-mapping.md"
+  }, {
+    "chunk_id" : 152,
+    "file" : "chunks/chunk_000152.jsonl",
+    "section" : null,
+    "size" : "389",
+    "source_file" : "river-x/source-mapping/air-traffic-data-model.md"
+  }, {
+    "chunk_id" : 153,
+    "file" : "chunks/chunk_000153.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 154,
+    "file" : "chunks/chunk_000154.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 155,
+    "file" : "chunks/chunk_000155.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 156,
+    "file" : "chunks/chunk_000156.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 157,
+    "file" : "chunks/chunk_000157.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 158,
+    "file" : "chunks/chunk_000158.jsonl",
+    "section" : null,
+    "size" : "393",
+    "source_file" : "river-x/source-mapping/aircraft-data-models.md"
+  }, {
+    "chunk_id" : 159,
+    "file" : "chunks/chunk_000159.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/baggage-data-models.md"
+  }, {
+    "chunk_id" : 160,
+    "file" : "chunks/chunk_000160.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/baggage-data-models.md"
+  }, {
+    "chunk_id" : 161,
+    "file" : "chunks/chunk_000161.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/baggage-data-models.md"
+  }, {
+    "chunk_id" : 162,
+    "file" : "chunks/chunk_000162.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/baggage-data-models.md"
+  }, {
+    "chunk_id" : 163,
+    "file" : "chunks/chunk_000163.jsonl",
+    "section" : null,
+    "size" : "1443",
+    "source_file" : "river-x/source-mapping/baggage-data-models.md"
+  }, {
+    "chunk_id" : 164,
+    "file" : "chunks/chunk_000164.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 165,
+    "file" : "chunks/chunk_000165.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 166,
+    "file" : "chunks/chunk_000166.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 167,
+    "file" : "chunks/chunk_000167.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 168,
+    "file" : "chunks/chunk_000168.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 169,
+    "file" : "chunks/chunk_000169.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 170,
+    "file" : "chunks/chunk_000170.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 171,
+    "file" : "chunks/chunk_000171.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 172,
+    "file" : "chunks/chunk_000172.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 173,
+    "file" : "chunks/chunk_000173.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 174,
+    "file" : "chunks/chunk_000174.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 175,
+    "file" : "chunks/chunk_000175.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 176,
+    "file" : "chunks/chunk_000176.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 177,
+    "file" : "chunks/chunk_000177.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 178,
+    "file" : "chunks/chunk_000178.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 179,
+    "file" : "chunks/chunk_000179.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 180,
+    "file" : "chunks/chunk_000180.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 181,
+    "file" : "chunks/chunk_000181.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 182,
+    "file" : "chunks/chunk_000182.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 183,
+    "file" : "chunks/chunk_000183.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 184,
+    "file" : "chunks/chunk_000184.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 185,
+    "file" : "chunks/chunk_000185.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 186,
+    "file" : "chunks/chunk_000186.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 187,
+    "file" : "chunks/chunk_000187.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 188,
+    "file" : "chunks/chunk_000188.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 189,
+    "file" : "chunks/chunk_000189.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 190,
+    "file" : "chunks/chunk_000190.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 191,
+    "file" : "chunks/chunk_000191.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 192,
+    "file" : "chunks/chunk_000192.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 193,
+    "file" : "chunks/chunk_000193.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 194,
+    "file" : "chunks/chunk_000194.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 195,
+    "file" : "chunks/chunk_000195.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 196,
+    "file" : "chunks/chunk_000196.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 197,
+    "file" : "chunks/chunk_000197.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 198,
+    "file" : "chunks/chunk_000198.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 199,
+    "file" : "chunks/chunk_000199.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 200,
+    "file" : "chunks/chunk_000200.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 201,
+    "file" : "chunks/chunk_000201.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 202,
+    "file" : "chunks/chunk_000202.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 203,
+    "file" : "chunks/chunk_000203.jsonl",
+    "section" : null,
+    "size" : "1082",
+    "source_file" : "river-x/source-mapping/crew-data-models.md"
+  }, {
+    "chunk_id" : 204,
+    "file" : "chunks/chunk_000204.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/electronic-flight-bag-data-models.md"
+  }, {
+    "chunk_id" : 205,
+    "file" : "chunks/chunk_000205.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/electronic-flight-bag-data-models.md"
+  }, {
+    "chunk_id" : 206,
+    "file" : "chunks/chunk_000206.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/electronic-flight-bag-data-models.md"
+  }, {
+    "chunk_id" : 207,
+    "file" : "chunks/chunk_000207.jsonl",
+    "section" : null,
+    "size" : "655",
+    "source_file" : "river-x/source-mapping/electronic-flight-bag-data-models.md"
+  }, {
+    "chunk_id" : 208,
+    "file" : "chunks/chunk_000208.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 209,
+    "file" : "chunks/chunk_000209.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 210,
+    "file" : "chunks/chunk_000210.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 211,
+    "file" : "chunks/chunk_000211.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 212,
+    "file" : "chunks/chunk_000212.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 213,
+    "file" : "chunks/chunk_000213.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 214,
+    "file" : "chunks/chunk_000214.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 215,
+    "file" : "chunks/chunk_000215.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 216,
+    "file" : "chunks/chunk_000216.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 217,
+    "file" : "chunks/chunk_000217.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 218,
+    "file" : "chunks/chunk_000218.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 219,
+    "file" : "chunks/chunk_000219.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 220,
+    "file" : "chunks/chunk_000220.jsonl",
+    "section" : null,
+    "size" : "1778",
+    "source_file" : "river-x/source-mapping/flight-data-models.md"
+  }, {
+    "chunk_id" : 221,
+    "file" : "chunks/chunk_000221.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 222,
+    "file" : "chunks/chunk_000222.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 223,
+    "file" : "chunks/chunk_000223.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 224,
+    "file" : "chunks/chunk_000224.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 225,
+    "file" : "chunks/chunk_000225.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 226,
+    "file" : "chunks/chunk_000226.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 227,
+    "file" : "chunks/chunk_000227.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 228,
+    "file" : "chunks/chunk_000228.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 229,
+    "file" : "chunks/chunk_000229.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 230,
+    "file" : "chunks/chunk_000230.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 231,
+    "file" : "chunks/chunk_000231.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 232,
+    "file" : "chunks/chunk_000232.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 233,
+    "file" : "chunks/chunk_000233.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 234,
+    "file" : "chunks/chunk_000234.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 235,
+    "file" : "chunks/chunk_000235.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 236,
+    "file" : "chunks/chunk_000236.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 237,
+    "file" : "chunks/chunk_000237.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 238,
+    "file" : "chunks/chunk_000238.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 239,
+    "file" : "chunks/chunk_000239.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 240,
+    "file" : "chunks/chunk_000240.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 241,
+    "file" : "chunks/chunk_000241.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 242,
+    "file" : "chunks/chunk_000242.jsonl",
+    "section" : null,
+    "size" : "1910",
+    "source_file" : "river-x/source-mapping/flight-plan-data-models.md"
+  }, {
+    "chunk_id" : 243,
+    "file" : "chunks/chunk_000243.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 244,
+    "file" : "chunks/chunk_000244.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 245,
+    "file" : "chunks/chunk_000245.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 246,
+    "file" : "chunks/chunk_000246.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 247,
+    "file" : "chunks/chunk_000247.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 248,
+    "file" : "chunks/chunk_000248.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 249,
+    "file" : "chunks/chunk_000249.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 250,
+    "file" : "chunks/chunk_000250.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 251,
+    "file" : "chunks/chunk_000251.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 252,
+    "file" : "chunks/chunk_000252.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 253,
+    "file" : "chunks/chunk_000253.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 254,
+    "file" : "chunks/chunk_000254.jsonl",
+    "section" : null,
+    "size" : "1750",
+    "source_file" : "river-x/source-mapping/ground-handling-data-models.md"
+  }, {
+    "chunk_id" : 255,
+    "file" : "chunks/chunk_000255.jsonl",
+    "section" : null,
+    "size" : "395",
+    "source_file" : "river-x/source-mapping/ground-traffic-data-model.md"
+  }, {
+    "chunk_id" : 256,
+    "file" : "chunks/chunk_000256.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 257,
+    "file" : "chunks/chunk_000257.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 258,
+    "file" : "chunks/chunk_000258.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 259,
+    "file" : "chunks/chunk_000259.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 260,
+    "file" : "chunks/chunk_000260.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 261,
+    "file" : "chunks/chunk_000261.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 262,
+    "file" : "chunks/chunk_000262.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 263,
+    "file" : "chunks/chunk_000263.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 264,
+    "file" : "chunks/chunk_000264.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 265,
+    "file" : "chunks/chunk_000265.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 266,
+    "file" : "chunks/chunk_000266.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 267,
+    "file" : "chunks/chunk_000267.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 268,
+    "file" : "chunks/chunk_000268.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 269,
+    "file" : "chunks/chunk_000269.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 270,
+    "file" : "chunks/chunk_000270.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 271,
+    "file" : "chunks/chunk_000271.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 272,
+    "file" : "chunks/chunk_000272.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 273,
+    "file" : "chunks/chunk_000273.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 274,
+    "file" : "chunks/chunk_000274.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 275,
+    "file" : "chunks/chunk_000275.jsonl",
+    "section" : null,
+    "size" : "1308",
+    "source_file" : "river-x/source-mapping/passenger-data-models.md"
+  }, {
+    "chunk_id" : 276,
+    "file" : "chunks/chunk_000276.jsonl",
+    "section" : null,
+    "size" : "617",
+    "source_file" : "river-x/source-mapping/reference-data-models.md"
+  }, {
+    "chunk_id" : 277,
+    "file" : "chunks/chunk_000277.jsonl",
+    "section" : null,
+    "size" : "2000",
+    "source_file" : "river-x/source-mapping/stations-data-model.md"
+  }, {
+    "chunk_id" : 278,
+    "file" : "chunks/chunk_000278.jsonl",
+    "section" : null,
+    "size" : "633",
+    "source_file" : "river-x/source-mapping/stations-data-model.md"
+  }, {
+    "chunk_id" : 279,
+    "file" : "chunks/chunk_000279.jsonl",
+    "section" : null,
+    "size" : "375",
+    "source_file" : "river-x/source-mapping/tows-data-model.md"
+  }, {
+    "chunk_id" : 280,
+    "file" : "chunks/chunk_000280.jsonl",
+    "section" : null,
+    "size" : "381",
+    "source_file" : "river-x/source-mapping/weather-data-model.md"
+  } ],
+  "chunks_directory" : "chunks/",
+  "timestamp" : "20251003_134757",
+  "total_chunks" : 281
+}
